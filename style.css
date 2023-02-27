@@ -18,7 +18,7 @@ h1{
     width: 90%;
 }
 .top-banner{
-    background-image: url("projects/top-banner.png");
+    background-image: url("projects/images/top-banner.png");
     background-repeat: no-repeat;
 }
 section{
@@ -50,7 +50,7 @@ p{
     background-image: url(projects/images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
-    /* padding-top: 80px; */
+    padding-top: 80px;
 }
 .experience{
     box-shadow: 10px 10px 40px gray;
