@@ -1,4 +1,4 @@
-body{
+body, footer{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
@@ -50,7 +50,7 @@ p{
     background-image: url(projects/images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
-    padding-top: 80px;
+    padding-bottom: 7%;
 }
 .experience{
     box-shadow: 10px 10px 40px gray;
